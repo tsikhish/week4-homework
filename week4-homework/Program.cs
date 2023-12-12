@@ -6,7 +6,10 @@ namespace week4_homework
     {
         static void Main(string[] args)
         {
+            Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("Mariam Tsikhishvili");
+            string userInput = Console.ReadLine();
+            Console.WriteLine(userInput);
         }
     }
 }
