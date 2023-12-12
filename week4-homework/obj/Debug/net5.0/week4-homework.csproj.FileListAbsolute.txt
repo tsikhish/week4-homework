@@ -1,0 +1,16 @@
+C:\Users\Mari\source\repos\week4-homework\week4-homework\bin\Debug\net5.0\week4-homework.exe
+C:\Users\Mari\source\repos\week4-homework\week4-homework\bin\Debug\net5.0\week4-homework.deps.json
+C:\Users\Mari\source\repos\week4-homework\week4-homework\bin\Debug\net5.0\week4-homework.runtimeconfig.json
+C:\Users\Mari\source\repos\week4-homework\week4-homework\bin\Debug\net5.0\week4-homework.runtimeconfig.dev.json
+C:\Users\Mari\source\repos\week4-homework\week4-homework\bin\Debug\net5.0\week4-homework.dll
+C:\Users\Mari\source\repos\week4-homework\week4-homework\bin\Debug\net5.0\week4-homework.pdb
+C:\Users\Mari\source\repos\week4-homework\week4-homework\obj\Debug\net5.0\week4-homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mari\source\repos\week4-homework\week4-homework\obj\Debug\net5.0\week4-homework.AssemblyInfoInputs.cache
+C:\Users\Mari\source\repos\week4-homework\week4-homework\obj\Debug\net5.0\week4-homework.AssemblyInfo.cs
+C:\Users\Mari\source\repos\week4-homework\week4-homework\obj\Debug\net5.0\week4-homework.csproj.CoreCompileInputs.cache
+C:\Users\Mari\source\repos\week4-homework\week4-homework\obj\Debug\net5.0\week4-homework.sourcelink.json
+C:\Users\Mari\source\repos\week4-homework\week4-homework\obj\Debug\net5.0\week4-homework.dll
+C:\Users\Mari\source\repos\week4-homework\week4-homework\obj\Debug\net5.0\refint\week4-homework.dll
+C:\Users\Mari\source\repos\week4-homework\week4-homework\obj\Debug\net5.0\week4-homework.pdb
+C:\Users\Mari\source\repos\week4-homework\week4-homework\obj\Debug\net5.0\week4-homework.genruntimeconfig.cache
+C:\Users\Mari\source\repos\week4-homework\week4-homework\obj\Debug\net5.0\ref\week4-homework.dll
